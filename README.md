@@ -41,7 +41,7 @@ All relationships were set with proper cardinality (`one-to-many`, `many-to-one`
 
 Additionally, a **custom Calendar table** and several **supporting measures and switching mechanisms** were implemented to enable time intelligence, year-over-year comparisons, and dynamic filtering.  *(Details about DAX metrics and calculation logic are provided in a separate section.)*
 
-![Data Model - Power BI](assets/data_model.png)
+![Data Model - Power BI](assets/data_model.jpeg)
 
 ---
 
